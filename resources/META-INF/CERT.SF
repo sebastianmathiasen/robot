@@ -1,0 +1,196 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: bkfp2qv3mx4Z3of6q5OWvQze/ww=
+Created-By: 1.0 (Android)
+
+Name: lib/armeabi-v7a/libnative_camera_r4.4.0.so
+SHA1-Digest: KSPVVPUVbthgg2Xz4J3/tJQ/+lQ=
+
+Name: lib/armeabi-v7a/libopencvforunity.so
+SHA1-Digest: fvIwGGBNoVcQ10wlPG1nFBTW7DM=
+
+Name: res/drawable-xxxhdpi-v4/app_icon.png
+SHA1-Digest: XAZDPVuDN9UJqXdG4rOV4pJdy38=
+
+Name: lib/armeabi-v7a/libnative_camera_r4.0.3.so
+SHA1-Digest: FFkOeskU2oL4jn+XfS3oOuO25Qk=
+
+Name: assets/facerec/facerec_sample.bmp
+SHA1-Digest: p5bRsuzf6qwAB9YrUb0pVWSPbxY=
+
+Name: assets/bin/Data/Managed/UnityEngine.Networking.dll
+SHA1-Digest: C/MuhZkZsbHHc5tfpIWC4SGEHHc=
+
+Name: assets/haarcascade_frontalface_alt.xml
+SHA1-Digest: oUQ4+R/mRDgUJMIppZOEA0RKuUw=
+
+Name: assets/bin/Data/5e2d606e7375a8a498239932d1483c3a
+SHA1-Digest: KKhTQFn3Uo2yLJukXB7FumyvARY=
+
+Name: lib/armeabi-v7a/libnative_camera_r4.1.1.so
+SHA1-Digest: 2VeX7PScXqkoUrOe+tVfRfiV7U8=
+
+Name: assets/bin/Data/23127a391a0e3425385cd26a9e4cc403
+SHA1-Digest: Y4gCGvtflWBLnGm2CUCJf8WWyXY=
+
+Name: assets/bin/Data/settings.xml
+SHA1-Digest: 7u4pxlNKPDCMEG5NoF9vql5VDy8=
+
+Name: assets/bin/Data/Managed/UnityEngine.xml
+SHA1-Digest: nA4l7HljdffcJqJ0csXM4Dt9TIM=
+
+Name: res/drawable-ldpi-v4/app_icon.png
+SHA1-Digest: AOwJlUyo7vHM308bzNwI96MwhZY=
+
+Name: lib/x86/libnative_camera_r4.4.0.so
+SHA1-Digest: +W5bOU63b6fcxfP1dXrWvF7U7Bc=
+
+Name: assets/bin/Data/Managed/UnityEngine.dll.mdb
+SHA1-Digest: guZm3WbheXCy56HWwLdLek6NMKg=
+
+Name: assets/bin/Data/unity default resources
+SHA1-Digest: VritsxDgRBhsjT3joNMFe6dJrBo=
+
+Name: res/drawable-hdpi-v4/app_icon.png
+SHA1-Digest: clgsXu2z0jdn3oO3wLVmg7KRfig=
+
+Name: assets/bin/Data/splash.png
+SHA1-Digest: ju4E2ODJO4pEsaqK0hNUKSoWlPw=
+
+Name: lib/armeabi-v7a/libnative_camera_r2.2.0.so
+SHA1-Digest: VS9AP3G6jA0i8xliLLFZvC2zBQU=
+
+Name: lib/armeabi-v7a/libnative_camera_r4.2.0.so
+SHA1-Digest: t33wiB9BBGta05PwC9dVFgpEIyQ=
+
+Name: resources.arsc
+SHA1-Digest: WTfc+474gLjl/f2We/huv3dJ0JM=
+
+Name: assets/bin/Data/Managed/mscorlib.dll
+SHA1-Digest: /OW1+SPVjJDb5WVwDR7Jcm3a6v4=
+
+Name: assets/bin/Data/sharedassets0.assets.split0
+SHA1-Digest: TlwdfpQ6ITGM5HngSwnkOyi9njA=
+
+Name: assets/bin/Data/sharedassets0.assets.split1
+SHA1-Digest: 8+B5Df7jVvTH6aR8x4tparjZcwo=
+
+Name: lib/x86/libmain.so
+SHA1-Digest: TnFt5Dca6seBp9RXGdAIiEdBrsY=
+
+Name: assets/bin/Data/sharedassets0.assets.split2
+SHA1-Digest: I0yMQpHKRfWOx6WtgU/rKDAk84w=
+
+Name: assets/bin/Data/sharedassets1.assets.split0
+SHA1-Digest: cr2w9/C9x0HyLOCkX+oyeEjIpH8=
+
+Name: assets/bin/Data/Managed/System.Core.dll
+SHA1-Digest: mBmzuFhIcJ/ykrJBkVivhX+/AJI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: XuZTXiJijU9c+fvLe8KCwEgpa2U=
+
+Name: assets/bin/Data/Managed/UnityEngine.UI.dll
+SHA1-Digest: CvZWjtiAq8m6ysuhiAmmidYzyFs=
+
+Name: assets/bin/Data/sharedassets1.assets.split2
+SHA1-Digest: ix0l26ZvWxnEwbDAveIloAGbvk8=
+
+Name: lib/x86/libnative_camera_r4.3.0.so
+SHA1-Digest: /SyCHUi/so/DX5uK1hR6fBzteJw=
+
+Name: assets/bin/Data/sharedassets1.assets.split1
+SHA1-Digest: gSo6swWXKcb8vMODFJPZLkERIrQ=
+
+Name: lib/armeabi-v7a/libnative_camera_r3.0.1.so
+SHA1-Digest: ehk96GEf91maeIERjzB8TQGcSfQ=
+
+Name: lib/armeabi-v7a/libnative_camera_r2.3.3.so
+SHA1-Digest: qGtRPZWELeoyDoEYaNuOdkHNymE=
+
+Name: lib/x86/libnative_camera_r4.1.1.so
+SHA1-Digest: gxudonCYjCTOZIfZ9Ivnl2GIygs=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA1-Digest: 2RjJCIM3BJlzg4SHM4PWgrXItpk=
+
+Name: assets/bin/Data/Resources/unity_builtin_extra
+SHA1-Digest: RhH0Bq1baY1SsQLv9Dn6GvAtTo4=
+
+Name: res/drawable-xxhdpi-v4/app_icon.png
+SHA1-Digest: C/9hG5Of+WHkbHW49rqlrWkEY90=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA1-Digest: maLmsRhZdV9nm7J4dsA2v4aTDXg=
+
+Name: lib/x86/libunity.so
+SHA1-Digest: ynTx6BoD1gVK/eqA+bcNyuaMotw=
+
+Name: assets/bin/Data/Managed/UnityEngine.dll
+SHA1-Digest: EbR+GPjIxqiyESqcRyRylW4pS/Y=
+
+Name: lib/armeabi-v7a/libmono.so
+SHA1-Digest: xYaVdg7peGaHnBDFR2/LVAVP/Uo=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: oRrnW1Drwvpui+37YPeaggV8ZAo=
+
+Name: assets/lbpcascade_frontalface.xml
+SHA1-Digest: JjgdBhAYy+qfink7QrkMczjGDRA=
+
+Name: assets/bin/Data/level0
+SHA1-Digest: TUtO7uAY5nsHZuB8ilvfvmcK0d0=
+
+Name: lib/x86/libnative_camera_r4.0.3.so
+SHA1-Digest: Y/BUfpMEpHzTy35V8wCN0mSAe50=
+
+Name: res/drawable/app_icon.png
+SHA1-Digest: WfK0BTLeziGVWViXRK+vfkRgbQ4=
+
+Name: assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll
+SHA1-Digest: pKi1cbp9UXUv0FKnuj+9i26P+aQ=
+
+Name: lib/x86/libnative_camera_r2.3.3.so
+SHA1-Digest: He1nddqDPZPQsVM1Q46WbhRPGoo=
+
+Name: lib/armeabi-v7a/libnative_camera_r4.0.0.so
+SHA1-Digest: ibC5ryAxSRUEeAyUAxmQh4HrITA=
+
+Name: res/drawable-xhdpi-v4/app_banner.png
+SHA1-Digest: GmAqfy00mkN6GabsZhcK6EHDtzI=
+
+Name: assets/facerec/facerec_1.bmp
+SHA1-Digest: IWLB4MZwmr72C6rRPJBb4QEaA2A=
+
+Name: lib/armeabi-v7a/libnative_camera_r4.3.0.so
+SHA1-Digest: xDyqUU87/OFBy/ZcxnJTkeTiE/Y=
+
+Name: assets/bin/Data/Managed/Mono.Security.dll
+SHA1-Digest: C+QdKe6M4anpM3Fk6qdXlEVEBjE=
+
+Name: lib/x86/libopencvforunity.so
+SHA1-Digest: hFUWZt526jmo7R2Z6Dv6Ci5v3Mo=
+
+Name: assets/bin/Data/mainData
+SHA1-Digest: p3uLOCmuq0M61/Xf6olHmaJ7V9g=
+
+Name: lib/x86/libnative_camera_r4.2.0.so
+SHA1-Digest: QaH+Fdk8t0JzsotGD3E6NMbgA04=
+
+Name: assets/bin/Data/Managed/Assembly-CSharp.dll
+SHA1-Digest: i9WurGgmqvCcf6+VCuMcYfWxp84=
+
+Name: assets/bin/Data/Managed/System.dll
+SHA1-Digest: tp7WNySuGcS0EUpy1EyzXHw/0Pk=
+
+Name: lib/x86/libmono.so
+SHA1-Digest: Ig10SRPyUm1DyJOJ4AtUiPuuyuU=
+
+Name: classes.dex
+SHA1-Digest: ReDQKZzJFMyb6RHplzknvj4zMw8=
+
+Name: assets/facerec/facerec_0.bmp
+SHA1-Digest: kQ/NaKBpIsVRdLPxnSqyHn2hXKY=
+
+Name: lib/x86/libnative_camera_r3.0.1.so
+SHA1-Digest: d8pyphrUR00zci9N/ygNiW9I1Zc=
+
